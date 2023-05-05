@@ -1,2 +1,2 @@
-project task
-0x00-MySQL_Advanced
+ project task
+ MySQL Advanced
